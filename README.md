@@ -8,7 +8,7 @@
 
 <h3 align="left">📝 How to reach me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lidia lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lidia lg" height="30" width="40" />LinkedIn</a>
+<a href="https://linkedin.com/in/lidia lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lidia lg" height="30" width="40"/>LinkedIn</a>
 </p>
 
 <hr>
