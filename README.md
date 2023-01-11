@@ -27,6 +27,7 @@
     &nbsp; &nbsp; &nbsp; &nbsp; {name: <a href="https://www.figma.com/" target="_blank" rel="noreferrer"></a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> "Figma",}<br>
     &nbsp; &nbsp; &nbsp; &nbsp; {name:<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> "Git",}<br>
     &nbsp; &nbsp; &nbsp; &nbsp; {name: <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> "Sass",}<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; {name:  <img title="Visual Studio Code" alt="Visual Studio Code" width="40px"  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> "Visual Studio Code",}<br>
     ]</p>
 
 <hr>
