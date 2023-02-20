@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Lidia</h1>
-<h2 align="center">FullStack developer from Spain</h2>
+<h2 align="center">FullStack developer</h2>
 <h3 align="center">I've found in code a way to create something from scratch and see art in what I do</h3>
 <br>
 <br>
