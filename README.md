@@ -1,43 +1,24 @@
 
 <h1 align="center">Hi 👋, I'm Lidia</h1>
-<h2 align="center">FullStack developer</h2>
-<h3 align="center">I've found in code a way to create something from scratch and see art in what I do</h3>
-<br>
+<h2 align="center">Frontend developer</h2>
 <br>
 
-📫 Connect with me: **lidialg.dev@gmail.com**
+# 💫 About Me:
+I've found in code a way to create something from scratch and see art in what I do
 
-<h3 align="left">📝 How to reach me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lidialg" target="_blank">LinkedIn</a>
-</p>
 
-<hr>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lidialg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lidialg.dev@gmail.com) 
 
- <h3 align="left">Languages and Tools:</h3>
- <p align="left">const frontend = [<br>
-&nbsp; &nbsp; &nbsp; &nbsp; {name: "HTML"<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> , }<br>
-&nbsp; &nbsp; &nbsp; &nbsp; {name: "CSS"<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>,}<br>
-&nbsp; &nbsp; &nbsp; &nbsp; {name: "JavaScript"<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> ,}<br>
-&nbsp; &nbsp; &nbsp; &nbsp; {name: "ReactJS"<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> ,}<br>
-&nbsp; &nbsp; &nbsp; &nbsp; {name: "Sass"<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> ,}<br>
-&nbsp; &nbsp; &nbsp; &nbsp; {name: "Boostrap" <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>,}<br>
-&nbsp; &nbsp; &nbsp; &nbsp; {name: "Tailwind" <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>,}<br>
-    </p>
-    <br>
-    <p align="left">const backend = [<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; {name: "PHP"<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> ,}<br>   
-    &nbsp; &nbsp; &nbsp; &nbsp; {name: "MySQL"<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>,}<br>
-     &nbsp; &nbsp; &nbsp; &nbsp; {name: "NODEjs"<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>,}<br>
- ]</p>
-    <br>
-    <p align="left">const tools =[<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; {name: "Figma"<a href="https://www.figma.com/" target="_blank" rel="noreferrer"></a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>,}<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; {name: "Git"<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>,}<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; {name:  "Visual Studio Code"<img title="Visual Studio Code" alt="Visual Studio Code" width="40px"  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> ,}<br>
-       &nbsp; &nbsp; &nbsp; &nbsp; {name:  "Postman" <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> }<br>
-    ]</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<hr>
-<br>    
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lidialg&icon=0&color=13)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   
